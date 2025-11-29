@@ -12,7 +12,6 @@ Source: Climate Warming Report PDF :contentReference[oaicite:1]{index=1}
 - **Period B** (1970–1990) had the coldest average: about **–2.14°F**, fitting **Zone 6b**.  
 - **Period C** (1991–2020) had the warmest average: **4.12°F**, fitting **Zone 7a**.  
 - **Period A** (full history) was between them, showing a gradual warming trend.  
-(Verified on pages 2–5 of the report) :contentReference[oaicite:2]{index=2}
 
 ---
 
@@ -21,7 +20,6 @@ Source: Climate Warming Report PDF :contentReference[oaicite:1]{index=1}
 - Each comparison was tested statistically using the *Welch two-sample t-test*.  
 - The *Welch–Satterthwaite degrees-of-freedom formula* and *p-value from t-distribution* were used.  
 - Three comparisons were tested: C vs B, C vs A, and B vs A.  
-(Shown on pages 6–8) :contentReference[oaicite:3]{index=3}
 
 **Results:**  
 - **Period C vs Period B:** Highly significant warming (**difference = 6.26°F**, p ≈ 0.0012).  
@@ -38,7 +36,6 @@ Most warming occurred between mid-century and the present period.
 - For each period, the *t-based confidence interval formula* was used.  
 - The *standard error formula* and *margin-of-error formula* were applied.  
 - CIs were calculated for Periods A, B, and C.  
-(Pages 9–12) :contentReference[oaicite:4]{index=4}
 
 **Results:**  
 - **Period C:** CI = **(1.88°F, 6.36°F)** → Entirely above 0°F → firmly in **Zone 7a**, slight overlap into **7b**.  
@@ -55,7 +52,6 @@ B (coldest) → A → C (warmest).
 **How it was done:**  
 - The *Q-Q plot method* was used to visually compare data to a normal distribution.  
 - Additional checks included *histograms* and *stem-and-leaf plots*.  
-(Shown on pages 13–15) :contentReference[oaicite:5]{index=5}
 
 **Result:**  
 - All periods showed approximate normality.  
@@ -70,7 +66,6 @@ Using parametric tests (like the t-test) was justified.
 ## Time-Series Trend Summary
 **How it was done:**  
 - A *time-series plot* of annual extreme minimum temperature from 1941–2025 was generated.  
-(Page 15–16) :contentReference[oaicite:6]{index=6}
 
 **Result:**  
 - Clear upward movement in extreme minimum temperatures over the decades.  
